@@ -2,8 +2,7 @@
 #! /usr/bin/env python
 
 """
-Project Name    : Project Technique web
-File Name       : Project final
+Project Name    : Technique_web_scraping
 Encoding        : UTF-8
 
 Copyright (c) 2021 by Chinatsu KUROIWA
