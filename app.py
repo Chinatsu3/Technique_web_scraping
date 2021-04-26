@@ -13,9 +13,9 @@ Copyright (c) 2021 by Chinatsu KUROIWA
 	>>> pip3 install streamlit
 
 """
-import app_hotel
-import app_accueil
-import app_ntealan
+from visualisation import app_hotel
+from visualisation import app_accueil
+from visualisation import app_ntealan
 import streamlit as st
 
 PAGES = {

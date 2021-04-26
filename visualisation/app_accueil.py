@@ -28,7 +28,7 @@ def app():
 
     # explication pour le site NH hôtels
     cols[0].header("NH Hôtels")
-    image = Image.open('.././images/nh_hotels.jpg')
+    image = Image.open('./images/nh_hotels.jpg')
     cols[0].image(image)
     cols[1].text(" ")
     cols[1].write("NH Hôtels est un site qui permet de chercher des logements y compris des logements écologiques."
@@ -41,7 +41,7 @@ def app():
 
      # explication pour le dictionnaire
     cols[1].header("NTeALan")
-    image = Image.open('.././images/dict.PNG')
+    image = Image.open('./images/dict.PNG')
     cols[1].image(image)
     cols[0].text(" ")
     cols[0].write(" NTeALan est une organisation qui édite un dictioanniere en ligne pour la langue africaine *yɛmba*. Aujourd'hui le yɛmba est considéré comme une langue peu-dotée."

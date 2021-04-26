@@ -35,7 +35,7 @@ def app():
     	" Ci-dessous, des exemples de vocabulaire que vous pouvez trouver dans ce dictionnaire collaboratif.")
 
      # Lire la data scrapée 
-    df = pd.read_csv(".././data/output_natealan.csv")
+    df = pd.read_csv("./data/output_natealan.csv")
 
      # présentation des artices extarit
     st.subheader("Exeples de dicitionnaire colaboratif")

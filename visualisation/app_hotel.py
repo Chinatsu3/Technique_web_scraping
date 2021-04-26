@@ -30,7 +30,7 @@ def app():
     "Dans cette page vous trouverez des analyses sur les hôtels en fonction de leur respect de l’environnement (Eco_Friendly).")
     
     # Lire la data scrapée 
-    df = pd.read_csv(".././data/output_nhHotels.csv")
+    df = pd.read_csv("./data/output_nhHotels.csv")
     
     # présentation de donnée 
     st.subheader("Donées sur les hôtels du site NH Hôtels")
