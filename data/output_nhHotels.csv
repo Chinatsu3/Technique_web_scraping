@@ -1,0 +1,358 @@
+pays,hotel,etoile_hotel,eco_friendly,avis_client
+tunisie,Anantara Sahara Tozeur Resort & Villas,5,False,4.5
+argentine,NH Bariloche Edelweiss,4,True,4.0
+argentine,NH Buenos Aires 9 de Julio,4,True,4.5
+argentine,NH Buenos Aires City,5,False,4.0
+argentine,NH Buenos Aires Florida,4,False,4.0
+argentine,NH Buenos Aires Latino,4,False,4.5
+argentine,NH Buenos Aires Tango,4,True,4.0
+argentine,NH Collection Buenos Aires Centro Histórico,5,False,4.5
+argentine,NH Collection Buenos Aires Crillon,4,False,4.0
+argentine,NH Collection Buenos Aires Jousten,4,True,4.5
+argentine,NH Collection Buenos Aires Lancaster,4,True,4.5
+argentine,NH Córdoba Panorama,4,True,4.0
+argentine,NH Córdoba Urbano,3,False,4.0
+argentine,NH Gran Hotel Provincial,5,False,4.0
+argentine,NH Hotel Casino,4,False,3.5
+argentine,NH Mendoza Cordillera,4,False,4.0
+bresil,NH Curitiba The Five,4,False,0
+chili,NH Antofagasta,0,False,4.0
+chili,NH Iquique,4,False,4.0
+chili,NH Ciudad de Santiago,4,False,4.0
+chili,NH Collection Plaza Santiago,5,False,4.5
+chili,NH Collection Santiago Casacostanera,4,False,4.5
+colombie,NH Collection Barranquilla Smartsuites Royal,0,False,4.5
+colombie,NH Bogotá Boheme Royal,0,True,4.5
+colombie,NH Bogotá Pavillon Royal,0,False,4.5
+colombie,NH Bogotá Urban 26 Royal,0,False,4.5
+colombie,NH Bogotá Urban 93 Royal,0,False,4.0
+colombie,NH Collection Bogotá Andino Royal,0,True,4.5
+colombie,NH Collection Bogotá Hacienda Royal,0,True,4.5
+colombie,NH Collection Bogotá Teleport Royal,0,True,4.5
+colombie,NH Collection Bogotá Terra 100 Royal,0,True,4.5
+colombie,NH Collection Bogotá WTC Royal,0,True,4.5
+colombie,NH Cali Royal,0,False,4.0
+colombie,NH Cartagena Urban Royal,0,False,0
+colombie,NH Collection Medellín Royal,0,False,4.5
+cuba,NH Capri La Habana,4,False,4.0
+cuba,NH Collection Victoria La Habana,4,False,4.5
+equateur,NH Collection Quito Royal,5,False,4.5
+etats-unis,NH Collection New York Madison Avenue,4,False,0
+haiti,NH Haiti El Rancho,4,False,4.5
+mexique,NH Cancún Airport,4,False,0
+mexique,NH Coatzacoalcos,3,False,4.0
+mexique,NH Collection Guadalajara Providencia,5,True,4.5
+mexique,NH Collection León Expo,4,False,4.5
+mexique,NH Collection Mérida Paseo Montejo,4,False,4.0
+mexique,NH Collection Mexico City Airport T2,4,False,4.0
+mexique,NH Collection Mexico City Centro Histórico,4,True,4.0
+mexique,NH Collection Mexico City Reforma,4,False,4.0
+mexique,NH Collection Mexico City Santa Fe,4,False,4.5
+mexique,NH Mexico City Valle Dorado,4,False,4.0
+mexique,NH Collection Monterrey San Pedro,4,False,4.0
+mexique,NH Monterrey La Fe,4,False,0
+mexique,NH Puebla Centro Histórico,4,False,4.0
+mexique,NH Puebla Finsa,4,False,4.5
+mexique,NH Queretaro,4,False,3.5
+mexique,NH San Luis Potosí,4,False,4.0
+uruguay,NH Montevideo Columbia,4,False,4.0
+allemagne,NH Berlin Alexanderplatz,4,True,4.0
+allemagne,NH Berlin City Ost,4,False,4.0
+allemagne,NH Berlin Kurfürstendamm,4,True,4.0
+allemagne,NH Berlin Potsdamer Platz,4,True,4.0
+allemagne,NH Collection Berlin Mitte Friedrichstrasse,4,True,4.5
+allemagne,NH Collection Berlin Mitte am Checkpoint Charlie,4,True,4.0
+allemagne,nhow Berlin,4,True,4.5
+allemagne,NH Bingen,0,True,3.5
+allemagne,NH Collection Köln Mediapark,4,True,4.5
+allemagne,NH Köln Altstadt,4,True,4.0
+allemagne,NH Dortmund,4,True,4.5
+allemagne,NH Collection Dresden Altmarkt,4,True,4.5
+allemagne,NH Dresden Neustadt,4,True,4.0
+allemagne,NH Düsseldorf City,4,True,4.0
+allemagne,NH Düsseldorf City Nord,4,True,4.0
+allemagne,NH Düsseldorf Königsallee,4,True,4.0
+allemagne,NH Erlangen,4,True,4.0
+allemagne,NH Essen,4,False,4.5
+allemagne,NH Collection Frankfurt City,4,True,4.5
+allemagne,NH Frankfurt Airport,4,True,4.0
+allemagne,NH Frankfurt Airport West,4,True,3.5
+allemagne,NH Frankfurt Messe,4,True,4.5
+allemagne,NH Frankfurt Mörfelden Conference Center,4,True,3.5
+allemagne,NH Frankfurt Niederrad,4,True,4.0
+allemagne,NH Frankfurt Villa,3,False,4.5
+allemagne,NH Fürth Nürnberg,4,True,4.5
+allemagne,NH Collection Hamburg City,4,True,4.5
+allemagne,NH Hamburg Altona,4,True,4.0
+allemagne,NH Hamburg Horner Rennbahn,4,True,4.0
+allemagne,NH Hamburg Mitte,4,True,4.5
+allemagne,NH Hannover,4,False,0
+allemagne,NH Heidelberg,4,True,4.0
+allemagne,NH Hirschberg Heidelberg,4,True,3.5
+allemagne,NH Ingolstadt,4,True,4.0
+allemagne,NH Leipzig Messe,4,True,4.0
+allemagne,NH Leipzig Zentrum,4,False,4.0
+allemagne,NH Ludwigsburg,3,True,4.0
+allemagne,NH Magdeburg,4,True,4.0
+allemagne,NH Mannheim,4,False,4.0
+allemagne,NH Mannheim Viernheim,4,True,4.0
+allemagne,NH Collection München Bavaria,4,True,4.0
+allemagne,NH München Airport,4,True,3.5
+allemagne,NH München City Süd,3,True,3.5
+allemagne,NH München Messe,4,True,4.0
+allemagne,NH München Ost Conference Center,4,True,4.0
+allemagne,NH München Unterhaching,4,True,4.0
+allemagne,NH Klösterle Nördlingen,4,True,4.0
+allemagne,NH Collection Nürnberg City,4,True,4.0
+allemagne,NH Oberhausen,4,False,4.0
+allemagne,NH Potsdam,4,True,4.0
+allemagne,NH Schwerin,4,True,4.0
+allemagne,NH Stuttgart Airport,4,True,4.0
+allemagne,NH Stuttgart Sindelfingen,4,True,3.5
+allemagne,NH Weinheim,4,True,4.0
+allemagne,NH Wiesbaden,0,True,3.0
+andorre,NH Andorra La Vella,4,False,4.5
+autriche,NH Graz City,4,False,4.5
+autriche,NH Salzburg City,4,True,4.0
+autriche,NH Collection Wien Zentrum,4,True,4.5
+autriche,NH Danube City,4,True,4.0
+autriche,NH Vienna Airport Conference Center,4,True,4.0
+autriche,NH Wien Belvedere,4,True,4.0
+autriche,NH Wien City,4,True,4.0
+belgique,NH Collection Antwerp Centre,4,True,4.5
+belgique,NH Brugge,4,True,4.0
+belgique,NH Brussels Airport,4,True,4.0
+belgique,NH Brussels Carrefour Europe,4,True,4.0
+belgique,NH Brussels EU Berlaymont,4,True,0
+belgique,NH Brussels Grand Place Arenberg,4,True,4.0
+belgique,NH Brussels Louise,4,True,3.5
+belgique,NH Brussels Stéphanie,4,True,4.0
+belgique,NH Collection Brussels Centre,4,True,4.5
+belgique,NH Collection Brussels Grand Sablon,4,True,4.5
+belgique,nhow Brussels Bloom,4,True,4.0
+belgique,NH Gent Belfort,4,True,4.0
+belgique,NH Mechelen,3,True,4.0
+espagne,NH Campo de Gibraltar,4,False,4.0
+espagne,NH Alicante,4,False,4.0
+espagne,NH Collection Palacio de Aranjuez,4,True,4.5
+espagne,NH Collection Palacio de Avilés,5,False,4.5
+espagne,NH Gran Hotel Casino Extremadura,5,False,4.5
+espagne,NH Barcelona Diagonal Center,3,False,4.0
+espagne,NH Barcelona Eixample,3,True,4.0
+espagne,NH Barcelona Entenza,3,False,4.0
+espagne,NH Barcelona Les Corts,3,False,4.0
+espagne,NH Barcelona Stadium,4,True,4.0
+espagne,NH Collection Barcelona Constanza,4,True,4.5
+espagne,NH Collection Barcelona Gran Hotel Calderón,5,True,4.5
+espagne,NH Collection Barcelona Pódium,4,True,4.5
+espagne,NH Porta Barcelona,3,True,4.0
+espagne,NH Sant Boi,3,False,4.0
+espagne,NH Sants Barcelona,4,True,4.0
+espagne,NH Bilbao Deusto,3,True,4.0
+espagne,NH Collection Villa de Bilbao,4,True,4.5
+espagne,NH La Avanzada,4,False,3.5
+espagne,NH Collection Palacio de Burgos,4,False,4.5
+espagne,NH Collection Cáceres Palacio de Oquendo,4,True,4.5
+espagne,NH Campo Cartagena,3,False,4.0
+espagne,NH Cartagena,4,False,4.0
+espagne,NH Castellón Mindoro,4,False,4.0
+espagne,NH Castellón Turcosa,3,False,4.5
+espagne,NH Ciudad Real,4,False,4.0
+espagne,NH Collection Amistad Córdoba,4,True,4.5
+espagne,NH Córdoba Califa,3,False,4.0
+espagne,NH Ciudad de Cuenca,4,False,4.0
+espagne,NH Gijón,4,True,4.0
+espagne,NH Collection Granada Victoria,4,True,4.5
+espagne,NH Luz Huelva,4,False,3.5
+espagne,NH Avenida Jerez,4,False,4.0
+espagne,NH Collection A Coruña Finisterre,5,False,4.5
+espagne,NH Imperial Playa,4,False,4.0
+espagne,NH Las Palmas Playa Las Canteras,3,False,4.0
+espagne,NH Collection León Plaza Mayor,4,True,4.5
+espagne,NH Lleida Pirineos,4,False,4.0
+espagne,NH Logroño,3,False,4.0
+espagne,NH Logroño Herencia Rioja,4,False,4.0
+espagne,NH Alcorcón,4,False,4.0
+espagne,NH Collection Madrid Abascal,4,True,4.5
+espagne,NH Collection Madrid Colón,4,True,4.5
+espagne,NH Collection Madrid Eurobuilding,4,True,4.5
+espagne,NH Collection Madrid Gran Vía,4,False,4.5
+espagne,NH Collection Madrid Palacio de Tepa,5,True,4.5
+espagne,NH Collection Madrid Paseo del Prado,5,True,4.5
+espagne,NH Collection Madrid Suecia,5,True,4.5
+espagne,NH Leganés,3,False,3.5
+espagne,NH Madrid Alonso Martínez,3,True,4.5
+espagne,NH Madrid Atocha,3,False,4.0
+espagne,NH Madrid Balboa,4,False,4.0
+espagne,NH Madrid Barajas Airport,3,False,4.0
+espagne,NH Madrid Chamberí,3,False,4.0
+espagne,NH Madrid Lagasca,4,False,4.0
+espagne,NH Madrid Las Tablas,4,False,4.0
+espagne,NH Madrid Nacional,4,True,4.0
+espagne,NH Madrid Paseo de la Habana,4,False,3.5
+espagne,NH Madrid Príncipe de Vergara,4,False,4.5
+espagne,NH Madrid Ribera del Manzanares,4,True,4.5
+espagne,NH Madrid Sur,3,False,4.0
+espagne,NH Madrid Ventas,4,True,4.5
+espagne,NH Madrid Zurbano,4,True,4.0
+espagne,NH Pozuelo Ciudad de la Imagen,3,False,4.0
+espagne,NH Villa de Coslada,3,False,3.5
+espagne,NH Málaga,4,False,4.0
+espagne,Anantara Villa Padierna Palace Benahavís Marbella Resort,5,False,4.5
+espagne,NH Marbella,4,False,4.0
+espagne,NH San Pedro de Alcántara,3,False,4.0
+espagne,NH Amistad Murcia,4,False,4.0
+espagne,NH Ourense,4,False,4.5
+espagne,NH Oviedo Principado,4,False,4.0
+espagne,NH Pamplona Iruña Park,4,True,4.5
+espagne,NH Ciutat de Reus,4,True,4.0
+espagne,NH Collection Santiago de Compostela,5,False,4.5
+espagne,NH Collection San Sebastián Aránzazu,4,True,4.5
+espagne,NH Collection Salamanca Palacio de Castellanos,4,False,4.5
+espagne,NH Salamanca Puerta de la Catedral,4,False,4.5
+espagne,NH Tenerife,3,False,4.0
+espagne,NH Ciudad de Santander,3,True,4.0
+espagne,NH Ciudad de Zaragoza,4,False,4.5
+espagne,NH Collection Gran Hotel de Zaragoza,4,True,4.5
+espagne,NH Sport,3,False,3.5
+espagne,NH Collection Sevilla,4,True,4.5
+espagne,NH Sevilla Plaza de Armas,4,True,4.0
+espagne,NH Ciudad de Valencia,3,False,4.0
+espagne,NH Collection Valencia Colón,4,False,4.5
+espagne,NH Valencia Center,4,False,4.0
+espagne,NH Valencia Las Artes,4,False,4.0
+espagne,NH Valencia Las Ciencias,3,False,3.5
+espagne,NH Ciudad de Valladolid,4,False,4.0
+espagne,NH Valladolid Bálago,4,False,4.0
+espagne,NH Collection Vigo,4,False,4.5
+espagne,NH Canciller Ayala Vitoria,4,False,4.0
+espagne,NH Zamora Palacio del Duero,4,False,4.0
+france,NH Lyon Airport,4,True,4.0
+france,NH Collection Marseille,4,False,4.5
+france,nhow Marseille,4,False,0
+france,NH Nice,4,True,4.0
+france,NH Toulouse Airport,4,False,4.5
+hongrie,Anantara New York Palace Budapest Hotel,5,False,4.5
+hongrie,NH Budapest City,4,False,4.0
+hongrie,NH Collection Budapest City Center,5,False,4.0
+ireland,The Marker Hotel,5,False,4.5
+italie,NH Ancona,4,False,3.5
+italie,NH Bergamo,4,True,4.0
+italie,NH Orio al Serio,4,True,4.0
+italie,NH Bologna Villanova,4,True,4.0
+italie,NH Bologna de la Gare,4,True,4.0
+italie,NH Caltagirone Villa San Mauro,4,False,4.0
+italie,NH Catania Centro,4,True,4.0
+italie,NH Catania Parco Degli Aragonesi,4,True,4.0
+italie,NH Collection Grand Hotel Convento di Amalfi,5,True,4.5
+italie,NH Collection Firenze Palazzo Gaddi,4,False,4.0
+italie,NH Collection Firenze Porta Rossa,5,True,4.5
+italie,NH Firenze,4,True,4.5
+italie,NH Collection Genova Marina,4,True,4.5
+italie,NH Genova Centro,4,True,4.0
+italie,NH La Spezia,4,True,3.5
+italie,NH Lecco Pontevecchio,4,True,4.5
+italie,NH Collection Milano Porta Nuova,4,True,4.5
+italie,NH Collection Milano President,5,True,4.5
+italie,NH Linate,4,True,4.0
+italie,NH Milano 2,4,True,4.0
+italie,NH Milano 2 Residence,4,True,4.0
+italie,NH Milano Concordia,4,True,4.5
+italie,NH Milano Congress Centre,4,False,4.5
+italie,NH Milano Fiera,4,True,4.0
+italie,NH Milano Machiavelli,4,True,4.0
+italie,NH Milano Palazzo Moscova,4,True,4.5
+italie,NH Milano Touring,4,True,4.0
+italie,nhow Milano,4,True,4.5
+italie,NH Napoli Panorama,4,True,3.5
+italie,NH Padova,4,True,4.0
+italie,NH Palermo,4,True,3.5
+italie,NH Parma,4,True,4.5
+italie,NH Pisa,4,True,4.0
+italie,NH Ravenna,4,True,4.0
+italie,Anantara Palazzo Naiadi Rome Hotel,5,False,4.5
+italie,NH Collection Roma Centro,4,True,4.0
+italie,NH Collection Roma Fori Imperiali,5,True,5.0
+italie,NH Collection Roma Giustiniano,4,True,4.5
+italie,NH Collection Roma Palazzo Cinquecento,5,True,4.5
+italie,NH Collection Roma Vittorio Veneto,4,True,4.5
+italie,NH Roma Villa Carpegna,4,True,4.0
+italie,NH Savona Darsena,4,True,4.0
+italie,NH Siena,4,True,4.0
+italie,NH Collection Taormina,5,True,4.5
+italie,NH Trento,4,True,4.5
+italie,NH Trieste,4,True,4.0
+italie,NH Collection Torino Piazza Carlina,4,False,4.5
+italie,NH Torino Centro,4,False,4.0
+italie,NH Torino Lingotto Congress,4,False,4.5
+italie,NH Torino Santo Stefano,4,True,4.5
+italie,NH Collection Venezia Grand Hotel Palazzo dei Dogi,5,False,4.5
+italie,NH Collection Venezia Murano Villa,4,False,0
+italie,NH Venezia Laguna Palace,4,True,4.0
+italie,NH Venezia Rio Novo,4,True,4.5
+italie,NH Venezia Santa Lucia,4,False,4.0
+italie,NH Collection Palazzo Verona,5,False,0
+la-slovaquie,NH Bratislava Gate One,4,False,4.5
+luxembourg,NH Luxembourg,4,True,3.5
+pays-bas,NH Amersfoort,4,True,4.5
+pays-bas,NH Amsterdam Caransa,4,True,4.0
+pays-bas,NH Amsterdam Centre,4,True,4.0
+pays-bas,NH Amsterdam Museum Quarter,4,True,4.0
+pays-bas,NH Amsterdam Noord,4,True,4.0
+pays-bas,NH Amsterdam Schiller,4,True,4.0
+pays-bas,NH Amsterdam Schiphol Airport,4,True,4.0
+pays-bas,NH Amsterdam Zuid,4,True,4.0
+pays-bas,NH City Centre Amsterdam,4,True,4.0
+pays-bas,NH Collection Amsterdam Barbizon Palace,5,True,4.5
+pays-bas,NH Collection Amsterdam Doelen,5,True,4.5
+pays-bas,NH Collection Amsterdam Flower Market,4,True,4.0
+pays-bas,NH Collection Amsterdam Grand Hotel Krasnapolsky,5,True,4.5
+pays-bas,nhow Amsterdam RAI,4,False,4.5
+pays-bas,NH Arnhem Rijnhotel,4,True,4.0
+pays-bas,NH Bussum Jan Tabak,4,True,4.5
+pays-bas,NH Capelle,4,True,4.0
+pays-bas,NH Collection Eindhoven Centre,5,True,4.5
+pays-bas,NH Eindhoven Conference Centre Koningshof,4,True,4.0
+pays-bas,NH Groningen,4,True,4.0
+pays-bas,NH Groningen Hotel de Ville,4,True,4.0
+pays-bas,NH Atlantic Den Haag,4,True,4.0
+pays-bas,NH Den Haag,4,True,4.0
+pays-bas,NH Maastricht,4,True,4.0
+pays-bas,NH Naarden,4,True,3.5
+pays-bas,NH Noordwijk Conference Centre Leeuwenhorst,4,True,4.0
+pays-bas,NH Veluwe Sparrenhorst,4,True,4.0
+pays-bas,NH Atlanta Rotterdam,4,True,3.5
+pays-bas,nhow Rotterdam,4,True,4.5
+pays-bas,NH Centre Utrecht,3,True,4.0
+pays-bas,NH Utrecht,4,True,4.0
+pays-bas,NH Waalwijk,4,True,4.0
+pays-bas,NH Zandvoort,4,True,4.0
+pays-bas,NH Zoetermeer,4,True,4.0
+pologne,NH Poznan,4,False,4.0
+portugal,Anantara Vilamoura Algarve Resort,5,False,4.5
+portugal,The Residences at Victoria Algarve,5,False,4.5
+portugal,Tivoli Carvoeiro Algarve Resort,5,True,4.0
+portugal,Tivoli Lagos Algarve Resort,4,False,4.0
+portugal,Tivoli Marina Portimão Algarve Resort,4,False,4.5
+portugal,Tivoli Marina Vilamoura Algarve Resort,5,True,4.5
+portugal,Tivoli Coimbra,4,False,4.0
+portugal,Avani Avenida Liberdade Lisbon,4,False,4.5
+portugal,NH Collection Lisboa Liberdade,4,False,4.5
+portugal,NH Lisboa Campo Grande,4,False,4.0
+portugal,Tivoli Avenida Liberdade Lisboa,5,False,4.5
+portugal,Tivoli Oriente Lisboa,4,True,4.0
+portugal,NH Collection Porto Batalha,4,False,4.5
+portugal,NH Porto Jardim,4,False,4.5
+portugal,Tivoli Palácio de Seteais,5,False,4.5
+portugal,Tivoli Sintra,4,True,4.5
+republique-tcheque,NH Collection Olomouc Congress,4,False,4.5
+republique-tcheque,NH Collection Prague,4,False,4.5
+republique-tcheque,NH Collection Prague Carlo IV,5,False,4.5
+republique-tcheque,NH Prague City,4,False,4.0
+roumanie,NH Bucharest,4,False,4.5
+roumanie,NH Timisoara,4,False,4.0
+royaume-uni,NH London Kensington,4,True,4.0
+royaume-uni,nhow London,4,True,4.0
+suisse,NH Geneva Airport,4,True,3.5
+suisse,NH Geneva City,4,False,4.0
+qatar,The Vyra Suites NH Collection Doha,5,False,0
