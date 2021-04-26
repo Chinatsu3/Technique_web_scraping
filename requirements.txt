@@ -8,7 +8,6 @@ decorator==4.1.2
 html5lib==0.999999999
 idna==2.6
 ipaddress==1.0.17
-jdcal==1.0
 joblib==0.11
 keyring==10.6.0
 keyrings.alt==3.0
